@@ -1,0 +1,32 @@
+Generate a full stack website using for an existing business with 5 London locations. The business called Virk Tech Solutions (I'll attach the logo alongside the prompt). The general data, such as products and prices must be extracted from this existing website. The following requirements MUST ALSO be met:
+
+
+
+1) A dynamic sticky whatsapp chat initiate button that opens a new chat to the whatsapp number (+447762121336). 
+
+2) The overall theme MUST be modern looking, professional and clean using unique elements and heros.
+
+3) A dynamic animation hero must be present on the homepage. Here's the URL and embed for it:
+
+Embed: <iframe src='https://my.spline.design/nexbotrobotcharacterconcept-BLNook742cCjTbILC5TOaz9U/' frameborder='0' width='100%' height='100%'></iframe>
+URL: https://my.spline.design/nexbotrobotcharacterconcept-BLNook742cCjTbILC5TOaz9U/
+
+4) Page loading animation wherein the 3D website logo is rotating slowly and a bar with small percentage loading showing. This bar (and percentage) does not linearly increase from 0-100% but rather it relatively rapidly increases to 70-80% then slows down till 100%. Once completed, the visitor is greeted with a dynamic text that says "Hello..." and then with 1-2s gap, "Welcome to Virk Tech"
+
+5) Dynamic gradient effect / glow buttons and other cool effects that bring life to the site
+
+6) A clean menu bar that has Home, Repairing, Buy & Sell Your Device, Store Locator, Contact Us option that initiates a call to the number "+447762121336"
+
+7) Repairing tab which asks user to select their device make, model, variant and then takes the user to a book an appointment popup where the user is asked their name, email, phone number, appointment date and time, preferred branch. Take some inspiration from "https://techsmartrepair.co.uk/repair.html" Then 1) an email is sent to this email ("ziamsatti@gmail.com") 2) appointment data is saved in backend database wherein the website owner can view the bookings. 
+
+8) The Buy & Sell feature of the site also uses similar logic by opening a popup, asking user to enter name, email, number and select preferred device make and model, along with any additional info. This request is then also emailed to the abovementioned email and  saved to backend database along with a push notification about this new request.
+
+9) A smart backend with 5 different admin accounts, 1 for each branch (to manage their branch's requests), and 1 superuser/superadmin account that can access booking requests made with all branches. with default users and passwords. Let me know these usernames and passwords.
+
+10) Google map embed links and previews in the store locator section. Use this site (" https://www.virktech.co.uk ") for store locations and their respective numbers. This is their older site. The goal is to make a way better site than this according to modern standards. Clicking google maps preview opens google maps so they can instantly start navigating.
+
+11)  No matter which page the visitor is on, the shop locations, in summarized form must be visible in the footer.
+
+12) The overall theme of the site is dark, with very modern UI/UX.
+
+13) Scrape their old site (" https://www.virktechsolutions.com ") for all the products they are selling and list them in very easy-to-navigate manner with sorting and filter options on the product page.
